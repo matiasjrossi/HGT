@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>brush.png</file>
+        <file>open.png</file>
+        <file>lightbulb.png</file>
+    </qresource>
+    <qresource prefix="/palettes">
+        <file>default.palette</file>
+    </qresource>
+</RCC>
